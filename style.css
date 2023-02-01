@@ -1,0 +1,22 @@
+body{
+    background: url("fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.imagen_persona{
+    padding: 10px;  
+}
+.Datos_usuario{
+    margin: 2px;
+    padding: 3px;
+}
+.historial_academico{
+    content: solid;
+}
+.uni{
+    border: 3px solid gray;
+    
+}
+.container{
+    border: 7px solid black;
+}
